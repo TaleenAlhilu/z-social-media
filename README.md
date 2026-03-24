@@ -6,7 +6,7 @@ Responsive social media web application built with JavaScript, HTML, and CSS.
 - Liking posts
 - Reply to posts
 - Delete posts and replies
-- Searh filters
+- Search filters
 
 ## Programming Langauges Used
 - JavaScript
